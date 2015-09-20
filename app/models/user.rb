@@ -1,4 +1,5 @@
 class User < ActiveRecord::Base
+  has_many :microposts, dependent: :destroy
   attr_accessor :remember_token, :activation_token, :reset_token
   # presence: true is one element options hash. curly braces is optional in Rails if hash is last argument)
   before_save :downcase_email
