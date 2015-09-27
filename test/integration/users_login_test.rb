@@ -23,7 +23,7 @@ class UsersLoginTest < ActionDispatch::IntegrationTest
     assert_redirected_to @user
     # Simulate a user clicking logout in a second window.
     delete logout_path
-    follow_redirect!
+    #follow_redirect!
     # assert_template 'users/show'
     # assert_select "a[href=?]", login_path, count: 0
     # assert_select "a[href=?]", logout_path
