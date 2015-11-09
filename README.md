@@ -1,5 +1,5 @@
 
-# Twitter clone app using Ruby on Rails
+# Micropost app using Ruby on Rails
 
 This is the sample application for the
 [*Ruby on Rails Tutorial: Learn Web Development with Rails*]
