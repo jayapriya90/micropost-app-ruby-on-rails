@@ -10,12 +10,12 @@ Developed a simple Twitter clone app using Ruby on Rails. Deployed app to heroku
 Technologies : Ruby on Rails, Bootstrap, ActiveRecord, SQLite, Amazon S3, Heroku, Cloud9 IDE
 
 Features:
-1) Full login and authentication framework (Sign up/ Email activation / Login/ Password reset)
-2) Micropost creation (supports image upload)
-3) View all users and users profile
-4) Follow / Unfollow users
-5) Micropost / Followers / Following list and count
-6) Micropost status feed from following users
+- Full login and authentication framework (Sign up/ Email activation / Login/ Password reset)
+-  Micropost creation (supports image upload)
+-  View all users and users profile
+-  Follow / Unfollow users
+-  Micropost / Followers / Following list and count
+-  Micropost status feed from following users
 
 
 
