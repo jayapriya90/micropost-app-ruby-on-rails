@@ -11,7 +11,7 @@ Technologies : Ruby on Rails, Bootstrap, ActiveRecord, SQLite, Amazon S3, Heroku
 
 Features:
 - Full login and authentication framework (Sign up/ Email activation / Login/ Password reset)
--  Micropost creation (supports image upload)
+-  Micropost creation (supports image upload) and deletion
 -  View all users and users profile
 -  Follow / Unfollow users
 -  Micropost / Followers / Following list and count
